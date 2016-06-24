@@ -1,2 +1,4 @@
 # Myapp
-my first repository
+my first repository on Github
+
+I love :football :coding.
